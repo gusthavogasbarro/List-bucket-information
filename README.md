@@ -1,6 +1,6 @@
 # List-bucket-information
 ```
-Exempro de saida
+Exemplo de saida
 
 Total cost
 2021-05-10 Amazon Simple Storage Service  $ 0.0002966 
